@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #9aeea6;
+    background-color: #004F4D;
 }
 
 main{
@@ -13,4 +13,13 @@ main{
     margin: auto;
     box-shadow: 2px 2px 2px,#276931;
     padding: 10px;
+}
+
+h1{
+    color: #1F2024;
+    font-size: 2em;
+}
+
+h2{
+    color: #4B4952;
 }
